@@ -1,29 +1,29 @@
+### Hi there, I'm [Caleb](www.linkedin.com/in/inf0rmatiker) :wave:
+
+I graduated with an M.S. in Computer Science from [Colorado State University](https://compsci.colostate.edu/) in 2022, where my research focus was in Big Data and Distributed Systems. Currently, I'm working at [HPE](https://www.hpe.com/) on next-generation HPC storage system products where I've gained valuable experience with distributed, high-performance filesystems like Lustre and DAOS. Areas that personally interest me are audio analysis/visualization, high-speed networking, and open-source self-hosted cloud platforms.
+
+Below are my personal and public contributions, experience insights, and related skills.
+
+<div align="center">
+  <a href="https://github.com/inf0rmatiker">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=inf0rmatiker&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="inf0rmatiker"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inf0rmatiker&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="inf0rmatiker"/>
+  </a>
+</div>
 
 ------
-<h3 align="left">Skills:</h3>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=go,python,bash,c,cpp,cmake,java,scala,javascript,html,latex,md,matlab"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frameworks:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=anaconda,nginx,flask,pytorch,sklearn,tensorflow,npm,react,babel,bootstrap,spring,maven,gradle"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Databases:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,githubactions"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vim,vscode,pycharm,idea,webstorm,postman,eclipse,sublime"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=linux,redhat,ubuntu,windows,raspberrypi,debian"/></td>
-    </tr>
-</table>
+
+<h3 align="center">Language, OS, Tool, and Framework Experience</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,bash,c,cpp,java,latex,md,anaconda,nginx,flask,pytorch,sklearn,tensorflow" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,spring,maven,gradle,mongodb,git,docker,kubernetes,jenkins,githubactions,vim,vscode" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pycharm,idea,webstorm,postman,linux,redhat,ubuntu,windows,raspberrypi,debian" />
+  </a>
+</p>
+
