@@ -1,6 +1,6 @@
 ### Hi there, I'm [Caleb](www.linkedin.com/in/inf0rmatiker) :wave:
 
-I graduated with an M.S. in Computer Science from [Colorado State University](https://compsci.colostate.edu/) in 2022, where my research focus was in Big Data and Distributed Systems. Currently, I'm working at [HPE](https://www.hpe.com/) on next-generation HPC storage system products where I've gained valuable experience with distributed, high-performance filesystems like Lustre and DAOS. Areas that personally interest me are audio analysis/visualization, high-speed networking, and open-source self-hosted cloud platforms.
+I graduated with an M.S. in Computer Science from [Colorado State University](https://compsci.colostate.edu/) in 2022, where my research focus was in Big Data and Distributed Systems. Currently, I'm working at [HPE](https://www.hpe.com/) on next-generation HPC storage system products where I've gained valuable experience with distributed, high-performance filesystems like [Lustre](https://www.lustre.org/) and [DAOS](https://daos.io/). Areas that personally interest me are audio analysis/visualization, high-speed networking, and open-source self-hosted cloud platforms.
 
 Below are my personal and public contributions, experience insights, and related skills.
 
