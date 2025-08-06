@@ -2,6 +2,9 @@
 
 I graduated with an M.S. in Computer Science from [Colorado State University](https://compsci.colostate.edu/) in 2022, where my research focus was in Big Data and Distributed Systems. Currently, I'm working at [HPE](https://www.hpe.com/) on next-generation HPC storage system products where I've gained valuable experience with distributed, high-performance filesystems like [Lustre](https://www.lustre.org/) and [DAOS](https://daos.io/). Areas that personally interest me are audio analysis/visualization, high-speed networking, and open-source self-hosted cloud platforms.
 
+* [My Career Biography](https://inf0rmatiker.github.io/docs-site/1/index.html#_about)
+* [My Public Repositories](https://github.com/inf0rmatiker?tab=repositories)
+
 Below are my personal and public contributions, experience insights, and related skills.
 
 <div align="center">
